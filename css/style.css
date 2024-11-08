@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 900 px;
+    width: 80%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+button {
+    padding: 6rem 1rem;
+}
